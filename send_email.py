@@ -8,7 +8,7 @@ def send_email(message):
     receiver = "mithilmanchukonda@gmail.com"
 
     # IMPORTANT: remove spaces from app password
-    password = "lsjeymcjaopvyegr"
+    password = "enter your app password"
 
     context = ssl.create_default_context()
 

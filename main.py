@@ -3,10 +3,10 @@ from send_email import send_email
 
 topic = "tesla"
 
-api_key = "cc120f93bdd54312b8cd04327be63cd1"
+api_key = "enter your api key"
 
 url = (
-    "https://newsapi.org/v2/everything?q=tesla&from=2025-11-20&sortBy=publishedAt&apiKey=cc120f93bdd54312b8cd04327be63cd1"
+    "https://newsapi.org/v2/everything?q=tesla&from=2025-11-20&sortBy=publishedAt&apiKey=your api key"
 
 )
 
